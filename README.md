@@ -53,12 +53,14 @@ cd seu-repositorio
 2️⃣ Subir os serviços com Docker
 
 docker-compose build
+
 docker-compose up -d
 
 
 3️⃣ Rodar a aplicação
 
 npm install
+
 npm run start:dev
 
 
