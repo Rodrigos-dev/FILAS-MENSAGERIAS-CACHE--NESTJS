@@ -2,26 +2,26 @@
 
 # CACHE - FILAS --MENSAGERIA
 
-Este repositório reúne estudos e experimentações com **Redis**, **Bull** e **RabbitMQ**, demonstrando aplicações práticas como:
+Este repositório contém uma coleção de estudos práticos utilizando o **NestJS** integrando com:
 
+- 📌 **Redis** (para cache, pub/sub e filas)
+- 🔄 **Bull** (gerenciamento de filas)
+- 🐇 **RabbitMQ** (mensageria)
 - 📌 **Cache** com Redis
-- 🔄 **Filas** com Redis e Bull
-- 📣 **Pub/Sub** com Redis
-- 🐇 **Mensageria com RabbitMQ**
+  
+Ideal para compreender conceitos como processamento assíncrono, mensageria e alta performance com NestJS.
 
 ---
 
-
 ## 🚀 Tecnologias Utilizadas
 
+- [NestJS](https://nestjs.com/) — Framework Node.js para construção de aplicações escaláveis
 - [Node.js](https://nodejs.org/)
 - [Redis](https://redis.io/)
 - [BullMQ](https://docs.bullmq.io/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [Docker](https://www.docker.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-
----
 
 
 ## 📂 Estrutura dos Estudos
