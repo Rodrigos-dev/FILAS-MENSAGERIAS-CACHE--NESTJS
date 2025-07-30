@@ -11,6 +11,7 @@ Este repositório reúne estudos e experimentações com **Redis**, **Bull** e *
 
 ---
 
+
 ## 🚀 Tecnologias Utilizadas
 
 - [Node.js](https://nodejs.org/)
@@ -21,6 +22,7 @@ Este repositório reúne estudos e experimentações com **Redis**, **Bull** e *
 - [TypeScript](https://www.typescriptlang.org/)
 
 ---
+
 
 ## 📂 Estrutura dos Estudos
 
@@ -33,6 +35,7 @@ Este repositório reúne estudos e experimentações com **Redis**, **Bull** e *
 | `rabbitmq/consumer`       | Consumidor de mensagens com RabbitMQ                                      |
 
 ---
+
 
 ## 🧪 Executando o Projeto
 
